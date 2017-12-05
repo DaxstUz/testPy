@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//study/emailsend.py=utf-8
+encoding//study/notifyPatientProof.py=utf8
+encoding//study/provinceandcity.py=utf-8
+encoding//test/syncPatientArchive.py=utf-8
+encoding//test/syncPatientOrder.py=utf-8
+encoding//test/syncPatientUpdate.py=utf-8
